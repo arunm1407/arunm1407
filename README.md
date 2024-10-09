@@ -30,13 +30,14 @@ Here are some ideas to get you started:
   </ul>
 </div>
 
-
 <!--- snake -->
+<!-- 
+
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
        alt="snake" /></a>
-</div>
-
+</div>  
+-->
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -62,9 +63,11 @@ Here are some ideas to get you started:
 <!--Intro end-->
 
 
-
 <p align="center">
   <!--- stats (start) -->
+<!--
+
+<!--
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
